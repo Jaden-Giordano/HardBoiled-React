@@ -1,0 +1,5 @@
+# NodeJS/Yarn
+node_modules
+yarn-error.log
+
+dist/bundle.js
