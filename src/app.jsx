@@ -6,7 +6,7 @@ function App() {
   return (
     <Header
       head="Hardboiled React"
-      content="A simple ReactJS boilderplate containing Webpack, Sass, ES6, XO w/ Airbnb style guide, and Ava (w/ Enzyme)!"
+      content="A simple ReactJS boilerplate containing Webpack, Sass, ES6, XO w/ Airbnb style guide, and Ava (w/ Enzyme)!"
     />
   );
 }

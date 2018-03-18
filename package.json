@@ -1,7 +1,7 @@
 {
   "name": "hardboiled-react",
   "version": "1.0.0",
-  "description": "A simple ReactJS boilderplate containing Webpack, Sass, ES6, XO w/ Airbnb style guide, and Ava (w/ Enzyme)!",
+  "description": "A simple ReactJS boilerplate containing Webpack, Sass, ES6, XO w/ Airbnb style guide, and Ava (w/ Enzyme)!",
   "main": "src/index.jsx",
   "author": {
     "name": "Jaden Giordano",
