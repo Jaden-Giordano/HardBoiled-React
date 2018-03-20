@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 ### Added
  - A changelog
+ - Installed correct version of babel-loader.
+
+### Changed
+ - Reference to polyfill in Webpack config.
 
 ## [v0.1.0] - 2018-03-19
 ### Added
