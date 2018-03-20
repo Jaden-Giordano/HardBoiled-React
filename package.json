@@ -39,6 +39,7 @@
     "@babel/register": "^7.0.0-beta.42",
     "ava": "git://github.com/Jaden-Giordano/ava#comma-delimited-filters",
     "babel-eslint": "^8.2.2",
+    "babel-loader": "^8.0.0-beta",
     "css-loader": "^0.28.11",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
