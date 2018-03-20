@@ -12,7 +12,7 @@ function App() {
     <Provider store={instance}>
       <Header
         head="Hardboiled React"
-        content="A simple ReactJS/Parket boilerplate containing Webpack, Sass, ES6, XO w/ Airbnb style guide, and Ava (w/ Enzyme)!"
+        content="An opinionated ReactJS/Parket boilerplate containing Webpack 4, Sass, Babel 7, XO (w/ Airbnb style guide), and Ava (w/ Enzyme)!"
       />
     </Provider>
   );

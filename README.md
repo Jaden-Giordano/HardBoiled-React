@@ -1,6 +1,6 @@
 # Hard-Boiled React
 
-> A simple ReactJS/Parket boilerplate containing Webpack, Sass, ES6, XO w/ Airbnb style guide, and Ava (w/ Enzyme)!
+> An opinionated ReactJS/Parket boilerplate containing Webpack 4, Sass, Babel 7, XO (w/ Airbnb style guide), and Ava (w/ Enzyme)!
 
 ## Why?
 
